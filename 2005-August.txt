@@ -1,0 +1,20 @@
+From worldspace-main-admin at lists.berlios.de  Mon Aug  1 02:09:00 2005
+From: worldspace-main-admin at lists.berlios.de (worldspace-main-admin at lists.berlios.de)
+Date: Sun, 31 Jul 2005 21:09:00 -0300
+Subject: [Worldspace-main] Enlaces rotos
+Message-ID: <6cba76c10507311709459219ea@mail.gmail.com>
+
+hola, soy un lector de sus estupendos tutoriales, y he
+descubierto
+varios enlaces rotos en la seccion opengl, en
+"Comenzando con OpenGL",
+he querido bajar los fuentes de ejemplo ( tut_*.zip ).
+y me dice que
+no tengo permiso para bajarlos, porfabor denme
+permisos de descarga lo
+mas rapido posible, necesito los fuentes. gracias.
+
+Juan Pablo Aveggio
+Argentina.
+
+
